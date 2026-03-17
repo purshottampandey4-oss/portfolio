@@ -33,6 +33,11 @@ export const resources = [
     url: "https://www.investopedia.com/terms/c/compliance.asp",
     note: "Good baseline for compliance mindset and audit readiness.",
     tags: ["compliance", "professional"],
+  },{
+    title: "Workplace Ethics & Compliance (Intro)1",
+    url: "https://www.investopedia.com/terms/c/compliance.asp",
+    note: "Good baseline for compliance mindset and audit readiness.",
+    tags: ["compliance", "professional"],
   },
 ];
 
